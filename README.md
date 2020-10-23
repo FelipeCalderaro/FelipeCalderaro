@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+<img alt="Felipe Calderaro GitHubs Status" width="40%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecalderaro&layout=compact"/>
 
 <img alt="Felipe Calderaro GitHub's Profile" width="40%" height="150" src="https://github-readme-stats.vercel.app/api?username=felipecalderaro&show_icons=true&theme=dark" />
 
