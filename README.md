@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<img alt="Felipe Calderaro GitHub's Profile" width="40%" height="150" src="https://github-readme-stats.vercel.app/api?username=felipecalderaro&show_icons=true&theme=dark" />
+
+
+
+
 <!--
 **FelipeCalderaro/FelipeCalderaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
