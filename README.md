@@ -1,8 +1,8 @@
 # Hi there 👋
 
-<img alt="Felipe Calderaro GitHubs Status" width="40%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecalderaro&layout=compact"/>
-
-<img alt="Felipe Calderaro GitHub's Profile" width="40%" height="150" src="https://github-readme-stats.vercel.app/api?username=felipecalderaro&show_icons=true&theme=dark" />
+<hr>
+<img alt="FelipeCalderaro languages" width="35%" src="https://github-readme-stats.vercel.app/api?username=felipecalderaro&show_icons=true&theme=dracula"/>
+<img alt="FelipeCalderaro status" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecalderaro&layout=compact&theme=dracula"/>
 
 
 
