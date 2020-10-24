@@ -1,10 +1,6 @@
 # Hi there 👋
 
 <hr>
-
-<iframe src="https://calderaro.dev" width="30%" height="20%"></iframe>
-
-<hr>
 <img alt="FelipeCalderaro languages" width="35%" src="https://github-readme-stats.vercel.app/api?username=felipecalderaro&show_icons=true&theme=dracula"/>
 <img alt="FelipeCalderaro status" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecalderaro&layout=compact&theme=dracula"/>
 
