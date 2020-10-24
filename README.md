@@ -1,7 +1,7 @@
 # Hello there 👋
 
 ### Welcome and fell free to explore 😄
-I'm a ***Computer Engineer Student*** with passion in system development, current working as Mobile Developer using the hybrid development platform **Flutter**. <img alt="Flutter logo" height="37" width="129" class="align-middle" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png">
+I'm a ***Computer Engineer Student*** with passion in system development, current working as Mobile Developer using the hybrid development platform <img alt="Flutter logo" height="25" width="100" class="align-middle" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png">.
 
 <br>
 Studying technologies like **NodeJs**, **Django**, **Django Rest Framework**.
