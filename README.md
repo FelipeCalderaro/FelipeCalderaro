@@ -52,7 +52,7 @@
 
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/felipecalderaro/felipecalderaro"></a>
-  <a href="#"><img src="https://badges.pufler.dev/repos/felipecalderaro"></a>
+  <a href="https://github.com/FelipeCalderaro?tab=repositories"><img src="https://badges.pufler.dev/repos/felipecalderaro"></a>
  
 </p>
 
